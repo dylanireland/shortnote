@@ -28,7 +28,7 @@ n: "and"
 
 o: "of"
 
-p:
+p: "per"
 
 q:
 
