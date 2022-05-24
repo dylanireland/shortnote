@@ -25,6 +25,7 @@ l: "like"
 m: "me"
 
 n: "and"
+
 o: "of"
 
 p:
@@ -33,7 +34,7 @@ q:
 
 r:
 
-s:
+s: "as"
 
 t: "the"
 
