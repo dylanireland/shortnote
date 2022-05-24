@@ -34,3 +34,21 @@
  
  bite: "bte"
  
+ bit: "bit"
+ 
+ break: "bek"
+ 
+ broke: "bok"
+ 
+ broken: "bokn"
+ 
+ build: "bld"
+ 
+ built: "blt"
+ 
+ catch: "cth"
+ 
+ caught: "cgt"
+ 
+ 
+ 
