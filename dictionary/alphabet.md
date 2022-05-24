@@ -38,7 +38,7 @@ s: "as"
 
 t: "the"
 
-u:
+u: "you"
 
 v:
 
