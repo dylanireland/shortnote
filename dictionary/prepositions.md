@@ -24,7 +24,7 @@
   
   below: "bl"
   
-  beneath: "bn"
+  beneath: "bth"
   
   beside: "bd"
   
