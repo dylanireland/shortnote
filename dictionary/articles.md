@@ -1,3 +1,3 @@
-a:
-an:
-the:
+a: "a" or "an"
+
+t: "the"
